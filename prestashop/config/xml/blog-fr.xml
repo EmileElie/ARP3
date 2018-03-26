@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>PrestaShop lance PrestaTrust, un système de traçabilité basé sur la blockchain</title>
+    <link>https://www.prestashop.com/fr/blog/lancement-prestatrust</link>
+    <description>Après la récente publication de la version 1.7.3, PrestaShop lance PrestaTrust, un système de traçabilité qui s’appuie sur l’innovation inhérente à la blockcha</description>
+     <pubDate>Tue, 20 Mar 2018 17:52:26 +0100</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/lancement-prestatrust</guid>
+  </item>
+  <item>
+    <title>PrestaShop 1.7.3.0 est disponible !</title>
+    <link>https://www.prestashop.com/fr/blog/prestashop-1-7-3-0-est-disponible</link>
+    <description>
+PLUS SIMPLE -  PLUS RAPIDE - INTERNATIONAL</description>
+     <pubDate>Wed, 07 Mar 2018 11:33:31 +0100</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prestashop-1-7-3-0-est-disponible</guid>
+  </item>
+  <item>
+    <title>[SPECIAL LIVRAISON] - 3 chiffres à savoir avant de proposer la livraison à vos clients</title>
+    <link>https://www.prestashop.com/fr/blog/special-livraison-3-chiffres-a-savoir-avant-de-proposer-la-livraison-a-vos-clients</link>
+    <description>Accordez-vous l’importance adéquate à la livraison dans votre stratégie business et marketing ? Répondez-vous correctement aux besoins et aux attentes de vos clients ?</description>
+     <pubDate>Wed, 28 Feb 2018 14:58:58 +0100</pubDate>
+ <dc:creator>upela</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/special-livraison-3-chiffres-a-savoir-avant-de-proposer-la-livraison-a-vos-clients</guid>
+  </item>
+  <item>
+    <title>Du nouveau sur le module de certification ! </title>
+    <link>https://www.prestashop.com/fr/blog/du-nouveau-sur-le-module-de-certification</link>
+    <description>ENFIN UNE DATE !</description>
+     <pubDate>Tue, 27 Feb 2018 15:49:13 +0100</pubDate>
+ <dc:creator>article88@prestashop.com</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/du-nouveau-sur-le-module-de-certification</guid>
+  </item>
+  <item>
+    <title>Découvrez la Success Story de Papier Tigre !</title>
+    <link>https://www.prestashop.com/fr/blog/success-story-papier-tigre</link>
+    <description>PrestaShop relance sa série de Success Stories !</description>
+     <pubDate>Tue, 27 Feb 2018 14:30:04 +0100</pubDate>
+ <dc:creator>Habiba Ouenniche</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/success-story-papier-tigre</guid>
+  </item>
+  <item>
+    <title>4 façons de développer une relation durable avec vos clients</title>
+    <link>https://www.prestashop.com/fr/relation-durable-clients</link>
+    <description>Que vous soyez novice ou expert en marketing, vous disposez déjà d’un outil performant : votre matière grise.</description>
+     <pubDate>Mon, 26 Feb 2018 15:01:04 +0100</pubDate>
+ <dc:creator>mailchimp</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/relation-durable-clients</guid>
+  </item>
+  <item>
+    <title>Le marché de la cosmétique en Chine : De nouveaux horizons pour les entreprises Françaises</title>
+    <link>https://www.prestashop.com/fr/blog/le-marche-de-la-cosmetique-en-Chine</link>
+    <description>Pourquoi ce marché explose-t-il ?
+Le marché de la cosmétique en Chine en quelques chiffres :
+1- 32,9 Mds $ de chiffre d’affaires réalisé par le e-commerce</description>
+     <pubDate>Fri, 23 Feb 2018 14:50:59 +0100</pubDate>
+ <dc:creator>Habiba Ouenniche</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/le-marche-de-la-cosmetique-en-Chine</guid>
+  </item>
+  <item>
+    <title>Rencontrez Jimmy, notre Ambassadeur du mois | Février 2018</title>
+    <link>https://www.prestashop.com/fr/blog/ambassadeur-jimmy-hong-kong</link>
+    <description>Jimmy a rejoint le Programme Ambassadeur en août 2017 et il est notre premier ambassadeur à Hong Kong.</description>
+     <pubDate>Tue, 20 Feb 2018 15:06:10 +0100</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ambassadeur-jimmy-hong-kong</guid>
+  </item>
+  <item>
+    <title>PrestaShop vous aime ! &amp;lt;3</title>
+    <link>https://www.prestashop.com/fr/blog/prestashop-vous-aime</link>
+    <description>C’était une évidence. Nous nous sommes rencontrés en 2007 réunis par nos 2 passions : l’e-commerce et l’open source.</description>
+     <pubDate>Tue, 13 Feb 2018 11:06:19 +0100</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prestashop-vous-aime</guid>
+  </item>
+  <item>
+    <title>Comment créer un plan de marketing online performant pour votre eCommerce ?</title>
+    <link>https://www.prestashop.com/fr/blog/comment-creer-un-plan-de-marketing-online-performant-pour-votre-ecommerce</link>
+    <description>Vous avez besoin d&#039;un plan de marketing online stratégique ?</description>
+     <pubDate>Tue, 13 Feb 2018 10:47:11 +0100</pubDate>
+ <dc:creator>Juan Gonzalez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/comment-creer-un-plan-de-marketing-online-performant-pour-votre-ecommerce</guid>
+  </item>
+  </channel>
+</rss>

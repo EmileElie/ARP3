@@ -1,9 +1,10 @@
-# ARP3
+# ARPA3
 
 
 Première étape :
 
-	
+	- Ajout du dossier 'quantityleftupdate' dans /modules
+	- Ajout du fichier 'quantityleftupdate.html' dans /mails
 
 Deuxième étape :
 
@@ -27,4 +28,4 @@ Quatrième étape :
 
 
 
-Emile Elie Youssef
+Emile Youssef
